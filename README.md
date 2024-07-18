@@ -45,6 +45,8 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 <img src="https://img.shields.io/badge/-Hack%20The%20Box%20CDSA-2C2D72?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+
     
 </div>
 
