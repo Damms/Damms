@@ -44,7 +44,10 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 <a href="https://www.credly.com/badges/56808cb8-005a-44ae-985b-12b516e62d79/public_url">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/-Hack%20The%20Box%20CDSA-2C2D72?style=for-the-badge" />
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst" >
+  <img src="https://img.shields.io/badge/-Hack%20The%20Box%20CDSA-2C2D72?style=for-the-badge" />
+</a>
+
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/JaedynDamms-1608/E40E566641FAFAA9?sharingId=592CAF5B8FD33BDB">
   <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
