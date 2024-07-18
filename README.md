@@ -41,17 +41,17 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/56808cb8-005a-44ae-985b-12b516e62d79/public_url">
+<a href="https://www.credly.com/badges/56808cb8-005a-44ae-985b-12b516e62d79/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/-Hack%20The%20Box%20CDSA-2C2D72?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Hack%20The%20Box%20CDSA-2C2D72?style=for-the-badge" target="_blank" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/JaedynDamms-1608/E40E566641FAFAA9?sharingId=592CAF5B8FD33BDB">
   <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
-<a href="https://www.credly.com/badges/43cd1605-f36f-4fee-acd4-1e1bed78144d/public_url">
+<a href="https://www.credly.com/badges/43cd1605-f36f-4fee-acd4-1e1bed78144d/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </a>
-<a href="https://www.credly.com/badges/afa91228-e949-496f-aed2-2a62cda91fea/public_url">
+<a href="https://www.credly.com/badges/afa91228-e949-496f-aed2-2a62cda91fea/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
