@@ -12,7 +12,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|           | Wuzah SIEM Lab |
+|           | Wazuh SIEM Lab |
 |  | Home Lab|
 |         | Cloud SIEM using MS Sentinel|
 |       | Hack The Box CDSA|
@@ -63,6 +63,6 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 </div>
 
 ## Projects
-- Wuzah SIEM Lab with automation
+- Wazuh SIEM Lab with automation
 - Home Lab
 - Cloud SIEM using MS Sentinel
