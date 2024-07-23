@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jaedyn-damms"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a software engineer and cyber security enthusiast who is on his journey in learning the world of cyber security and how to protect others.
+I am a software engineer and cyber security enthusiast who is on his journey in learning the world of cyber security and how to protect others. In this page I will document my journey into the world of cybersecurity.
 
 ## Objective
 
