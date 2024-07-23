@@ -14,7 +14,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 |-----------------------------------------------|----------------------------|
 | SIEM management, Open source intelligence integration, Automated response | <a href="https://github.com/Damms/WazuhSIEMLab">Wazuh SIEM Lab</a> |
 |  | Home Lab|
-|         | Cloud SIEM using MS Sentinel|
+|         | <a href="https://github.com/Damms/ConfigureMicrosoftSentinel">Cloud SIEM using MS Sentinel</a>|
 |       | Hack The Box CDSA|
 
 ## Tools
@@ -65,4 +65,4 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 ## Projects
 - <a href="https://github.com/Damms/WazuhSIEMLab">Wazuh SIEM Lab</a>
 - Home Lab
-- Cloud SIEM using MS Sentinel
+- <a href="https://github.com/Damms/ConfigureMicrosoftSentinel">Cloud SIEM using MS Sentinel</a>
