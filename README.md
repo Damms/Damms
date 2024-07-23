@@ -13,7 +13,11 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM management, Open source intelligence integration, Automated response | <a href="https://github.com/Damms/WazuhSIEMLab">Wazuh SIEM Lab</a> |
-|  | Home Lab|
+|  Azure administration,
+Configuring Microsoft Sentinel for security monitoring,
+Creating and managing workbooks for data visualization,
+Setting up and tuning analytics rules for threat detection,
+Designing and implementing automation playbooks for efficient operations| Home Lab|
 |         | <a href="https://github.com/Damms/ConfigureMicrosoftSentinel">Cloud SIEM using MS Sentinel</a>|
 |       | Hack The Box CDSA|
 
