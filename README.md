@@ -12,7 +12,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM management, Open source intelligence integration, Automated response | <a href="https://github.com/Damms/WazuhSIEMLab">Wazuh SIEM Lab</a> |
+| SIEM management\ Open source intelligence integration, Automated response | <a href="https://github.com/Damms/WazuhSIEMLab">Wazuh SIEM Lab</a> |
 | Virtualization, Networking & Segmentation, Firewall Rules, SIEM Configuration & Data Collection, Active Directory Domains, Users and Computers | <a href="https://github.com/Damms/CyberSecurityHomeLab">Cybersecurity Home Lab</a>|
 |  Azure administration, Configuring Microsoft Sentinel, Managing workbooks for data visualization, Setting up and tuning analytics rules for threat detection, Automated response       | <a href="https://github.com/Damms/ConfigureMicrosoftSentinel">Cloud SIEM using MS Sentinel</a>|
 |       | Hack The Box CDSA|
