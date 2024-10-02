@@ -15,7 +15,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 | SIEM configuration & management, Open source intelligence integration, Automated response | <a href="https://github.com/Damms/WazuhSIEMLab">Wazuh SIEM Lab</a> |
 | Virtualization, Networking & Segmentation, Firewall Rules, SIEM Configuration & Data Collection,<br>Active Directory Domains, Users and Computers | <a href="https://github.com/Damms/CyberSecurityHomeLab">Cybersecurity Home Lab</a>|
 |  Azure administration, Configuring Microsoft Sentinel, Managing workbooks for data visualization,<br>Setting up and tuning analytics rules, Automated response       | <a href="https://github.com/Damms/ConfigureMicrosoftSentinel">Cloud SIEM using MS Sentinel</a>|
-|  SIEM Operations (ELK/Splunk), Log Analysis, Threat Hunting, Active Directory Attack Analysis, Network Traffic Analysis, Malware Analysis, DFIR Operations     | Hack The Box CDSA (In Progress) |
+|  SIEM Operations (ELK/Splunk), Log Analysis, Threat Hunting, Active Directory Attack Analysis, Network Traffic Analysis, Malware Analysis, DFIR Operations     | <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst">Hack The Box CDSA (In Progress)</a> |
 
 ## Tools
 
