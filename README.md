@@ -2,12 +2,11 @@
 <a href="https://www.linkedin.com/in/jaedyn-damms"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a software engineer and cyber security enthusiast who is on his journey in learning the world of cyber security and how to protect others. In this page I will document my journey into the world of cybersecurity.
+I am currently a software engineer and a cloud & cyber security enthusiast who is on his journey in learning the world of cyber security and how to help and protect others. In this page I will document my journey into the world of cloud security.
 
 ## Objective
 
-My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
-
+My journey in technology has led me to develop a passion for cloud security, and I am now eager to transition into this field.
 ## Skills
 
 | Skills                                         | Associated Project         |
