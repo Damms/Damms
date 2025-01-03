@@ -11,6 +11,7 @@ My journey in technology has led me to develop a passion for cloud security, and
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| ARM templates, Azure Load Balancer, Azure Application Gateway, Azure Traffic Management | <a href="https://github.com/Damms/AzureNetworkTrafficManagement">Implement Traffic Management in Azure</a> |
 | Kubernetes, kubectl, yaml, services, networking | <a href="https://github.com/Damms/BasicVotingApp">Deploying a scaleable microservice solution using Kubernetes</a> |
 | Infrastructure as code/Terraform, AWS | <a href="https://github.com/Damms/TerraformProject1">Terraform Project - Build dev environment in AWS</a> |
 | Splunk, Virtualization, Networking & Segmentation, Firewall Rules, SIEM Configuration & Data Collection,<br>Active Directory Domains, Users and Computers | <a href="https://github.com/Damms/CyberSecurityHomeLab">Cybersecurity Home Lab</a>|
