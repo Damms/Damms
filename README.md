@@ -30,6 +30,7 @@ My journey in technology has led me to develop a passion for cloud security, and
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<a href="https://www.tines.com/"><img src="https://img.shields.io/badge/-Tines-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Network
 <div>
