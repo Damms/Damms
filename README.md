@@ -54,7 +54,7 @@ My journey in technology has led me to develop a passion for cloud security, and
 </div>
 
 ### Vulnerability Management
-![Azure](https://img.shields.io/badge/nessus-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Tenable_nessus-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Certifications
 <div>
