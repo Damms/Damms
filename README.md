@@ -12,6 +12,7 @@ My journey in technology has led me to develop a passion for cloud security, and
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Threat Detection and Analysis, Endpoint Security and Monitoring, Security Tool Integration, Automation and Orchestration | <a href="https://github.com/Damms/SOAREDR">SOAR EDR Project</a> |
+| Vulnerability Management, Tenable Nessus | <a href="https://github.com/Damms/VulnScanning">Vulnerability Management Project</a> |
 | Github Actions (CI/CD), Azure Functions, Azure CDN, Azure DNS, Azure CosmosDB, Azure Storage | <a href="https://github.com/Damms/azure-resume">Azure Cloud Resume</a> |
 | ARM templates, Azure Load Balancer, Azure Application Gateway, Azure Traffic Management | <a href="https://github.com/Damms/AzureNetworkTrafficManagement">Implement Traffic Management in Azure</a> |
 | Kubernetes, kubectl, yaml, services, networking | <a href="https://github.com/Damms/BasicVotingApp">Deploying a scaleable microservice solution using Kubernetes</a> |
@@ -51,6 +52,9 @@ My journey in technology has led me to develop a passion for cloud security, and
     <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
     
 </div>
+
+### Vulnerability Management
+![Azure](https://img.shields.io/badge/nessus-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Certifications
 <div>
