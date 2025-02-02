@@ -6,7 +6,7 @@ I am currently a software engineer and a cloud & cyber security enthusiast who i
 
 ## Objective
 
-My journey in technology has led me to develop a passion for cloud security, and I am now eager to transition into this field.
+My journey in technology has led me to develop a passion for cyber security, and I am now eager to transition into this field.
 ## Skills
 
 | Skills                                         | Associated Project         |
