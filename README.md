@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jaedyn-damms"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://resume.jaedyndamms.com"><img src="https://img.shields.io/badge/Resume-0072b1?style=for-the-badge&logo=Resume&logoColor=white" /></a>
 
 
-I am currently a software engineer and a cloud & cyber security enthusiast who is on his journey in learning the world of cyber security and how to help and protect others. In this page I will document my journey into the world of cloud security.
+I am currently a software engineer and a cyber security enthusiast who is on his journey in learning the world of cyber security and how to help and protect others. In this page I will document my journey into the world of cyber security.
 
 ## Objective
 
